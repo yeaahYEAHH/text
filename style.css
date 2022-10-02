@@ -9,6 +9,10 @@ body {
     margin: 0 auto;
     padding: 10px; 
 }
+
+.mes{
+    text-align: center;
+}
    
 h1 {
     text-align: center;
@@ -29,7 +33,7 @@ h1 {
 }
   
 input[type=text] {
-    width: 50%;
+    width: 75%;
     padding: 10px; 
     border-radius: 20px;
     border: none;
@@ -38,7 +42,7 @@ input[type=text] {
   
 button {
     margin-top: 10px;
-    width: 50%;
+    width: 25%;
     padding: 10px;
     cursor: pointer; 
     border-radius: 20px;
@@ -59,7 +63,7 @@ button:hover{
     margin-top: 20px;
     color: #fff;
     border-radius: 200px;
-    padding: 20px;
+    padding-top: 10px;
 }
 
 
@@ -70,8 +74,17 @@ button:hover{
     height: 50%;
     width: 50%;
     border-radius: 20px;
-    padding: 20px;
     word-wrap: break-word;
 }
   
+
+.footer{
+    background-color: #1BA39C;
+    height: 234px;
+    text-align: center;
+    margin-top: 20px;
+    color: #fff;
+    border-radius: 200px;
+    padding-top: 10px;
+}
   
